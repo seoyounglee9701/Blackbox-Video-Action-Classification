@@ -15,6 +15,7 @@
 
 ## Dataset
 - [AI Hub traffic accident video dataset](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=597)
+![image](https://github.com/user-attachments/assets/a1da6a50-a616-4dbc-b2e1-8f7b88109d51)
 
 ## Result 
 - 4 places (parking lot, road and road others, roundabouts, t-intersection)
